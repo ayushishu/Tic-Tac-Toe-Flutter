@@ -3,7 +3,7 @@
 A Flutter project.
 
 ## OBJECTIVE:
-This project for Data Day Grind 3.0:  with a aims to develop a Tic Tac Toe game using Flutter. It mainly consists of developing and implementing a computer program on which we can  plays Tic Tac Toe against another player.
+This project for Data Day Grind 3.0:  with a aims to develop a Tic Tac Toe game using Flutter. It mainly consists of developing a Tic Tac Toe game.
 In order to understand what Tic Tac Toe game is and how to play the game, below is the description.
 
 ### GAME DESCRIPTION:
@@ -23,7 +23,14 @@ a. One of the players gets three of his/her marks in a row (vertically, horizont
 b. If no one can create a straight line with their own mark and all the positions on the board are occupied, then the game ends in a draw/tie.
 
 ### UI:
-https://drive.google.com/drive/u/0/folders/1TMZSWcPxxorb0rezlRxwdKnq9fUiWSvh
+
+![1 (3)](https://user-images.githubusercontent.com/65271275/180607342-a39a1de2-ee9e-40b9-9692-ef3132590250.jpg)
+![2](https://user-images.githubusercontent.com/65271275/180607378-e29b9e4a-1fb5-4312-9ec9-53a304ab2ebb.jpg)
+![3](https://user-images.githubusercontent.com/65271275/180607382-a5573e48-58cf-4bce-832f-281e7cc12cc4.jpg)
+![4](https://user-images.githubusercontent.com/65271275/180607384-1a4466fe-d45a-424d-a621-dd6155757940.jpg)
+![5](https://user-images.githubusercontent.com/65271275/180607386-77a9f32c-60b8-4198-9233-5fc93d470fd6.jpg)
+
+
 # Contribution Guidelines
 
 ## Steps to contribute to this project

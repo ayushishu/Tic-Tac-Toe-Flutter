@@ -3,7 +3,7 @@
 A Flutter project.
 
 ## OBJECTIVE:
-This project for Data Day Grind 3.0:  with a aims to develop a Tic Tac Toe game using Flutter. It mainly consists of developing and implementing a computer program that plays Tic Tac Toe against another player.
+This project for Data Day Grind 3.0:  with a aims to develop a Tic Tac Toe game using Flutter. It mainly consists of developing and implementing a computer program on which we can  plays Tic Tac Toe against another player.
 In order to understand what Tic Tac Toe game is and how to play the game, below is the description.
 
 GAME DESCRIPTION:

@@ -6,12 +6,12 @@ A Flutter project.
 This project for Data Day Grind 3.0:  with a aims to develop a Tic Tac Toe game using Flutter. It mainly consists of developing and implementing a computer program on which we can  plays Tic Tac Toe against another player.
 In order to understand what Tic Tac Toe game is and how to play the game, below is the description.
 
-GAME DESCRIPTION:
+### GAME DESCRIPTION:
 Tic Tac Toe is a two-player game. In this game, there is a board with 3 x 3 squares.
 
 The two players take turns putting marks on a 3x3 board. The goal of Tic Tac Toe game is to be one of the players to get three same symbols in a row - horizontally, vertically or diagonally on a 3 x 3 grid. The player who first gets 3 of his/her symbols (marks) in a row - vertically, horizontally, or diagonally wins the game, and the other loses the game. The game can be played by two players. 
 
-GAME RULES:
+### GAME RULES:
 A player can choose between two symbols with his opponent, usual game uses “X” and “O”.
 
 The player that gets to play first will get the "X" mark (we call him/her player 1) and the player that gets to play second will get the "O" mark (we call him/her player 2).
@@ -22,9 +22,21 @@ A player marks any of the 3x3 squares with his mark (“X” or “O”) and the
 a. One of the players gets three of his/her marks in a row (vertically, horizontally, or diagonally) i.e. that player wins the game.
 b. If no one can create a straight line with their own mark and all the positions on the board are occupied, then the game ends in a draw/tie.
 
-UI:
+### UI:
+https://drive.google.com/drive/u/0/folders/1TMZSWcPxxorb0rezlRxwdKnq9fUiWSvh
+# Contribution Guidelines
 
+## Steps to contribute to this project
 
+- Make sure to fork this repo using the `fork` button on the top
+- Then clone it via git `git clone [https://github.com/<your-username>/Tic-Tac-Toe-Flutter](https://github.com/hasnainmakada-99/Tic-Tac-Toe-Flutter)`
+- Open it in VS Code or Android Studio
+- Install all the dependencies using the `flutter pub get` command
+- Plug in your physical device or connect your emulator, Make sure to enable USB Debugging
+- Run the application using `flutter run` command
+- And Your application is up and running. Enjoy 😃
+
+# Resources Link 
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)

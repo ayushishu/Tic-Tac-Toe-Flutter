@@ -22,7 +22,7 @@ A player marks any of the 3x3 squares with his mark (“X” or “O”) and the
 a. One of the players gets three of his/her marks in a row (vertically, horizontally, or diagonally) i.e. that player wins the game.
 b. If no one can create a straight line with their own mark and all the positions on the board are occupied, then the game ends in a draw/tie.
 
-### UI:
+### User-Interface:
 
 ![1 (3)](https://user-images.githubusercontent.com/65271275/180607342-a39a1de2-ee9e-40b9-9692-ef3132590250.jpg)
 ![2](https://user-images.githubusercontent.com/65271275/180607378-e29b9e4a-1fb5-4312-9ec9-53a304ab2ebb.jpg)
